@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mac/Desktop/MyApp13/app/build/intermediates/res/merged/debug/layout/photo.xml",
+        "source": "/Users/mac/Desktop/MyApp13/app/src/main/res/layout/photo.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/MyApp13/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/mac/Desktop/MyApp13/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/MyApp13/app/build/intermediates/res/merged/debug/layout/image_item.xml",
+        "source": "/Users/mac/Desktop/MyApp13/app/src/main/res/layout/image_item.xml"
+    }
+]
